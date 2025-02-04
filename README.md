@@ -162,4 +162,5 @@ A collection of PyTorch notebooks for studying and practicing deep learning. Eac
   
   
 </table>
+by ric
 
